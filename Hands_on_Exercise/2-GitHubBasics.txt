@@ -1,0 +1,3 @@
+This is a copy of the original submision from the github library: https://github.com/SenpaiKames/github-hands-on/tree/main
+
+I have learned about cloning, commiting, pushing, pulling, and forking in Github.
